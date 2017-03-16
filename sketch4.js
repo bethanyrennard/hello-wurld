@@ -12,6 +12,5 @@ function setup() {
 function draw() {
   translate(mouseX, mouseY);
   image(img, 0, 0, mouseX * 2, mouseY * 2);
-  onclick='window.location.href="choiceI-html"'
 
 }
