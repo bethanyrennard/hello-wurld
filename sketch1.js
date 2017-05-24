@@ -11,5 +11,4 @@ function draw() {
   } else {
     stroke(110, 164, 249);
   }
-
 }
